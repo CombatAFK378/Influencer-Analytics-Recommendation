@@ -47,18 +47,19 @@ pip install -r requirements.txt
 
 Influencer Analytics & Recommendation/
 │
-├── venv/ # Virtual environment
-├── brands_data.csv # Input: Brand data
-├── growth_data.csv # Input: Growth metrics
-├── influencers_data.csv # Input: Influencer profiles
-├── influencer_analytics.ipynb # Main implementation notebook
-├── requirements.txt # Python dependencies
-├── README.md # Documentation (this file)
+├── venv/                         # Virtual environment
+├── brands_data.csv               # Input: Brand data
+├── growth_data.csv               # Input: Growth metrics
+├── influencers_data.csv          # Input: Influencer profiles
+├── influencer_analytics.ipynb    # Main implementation notebook
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project documentation
 │
-└── outputs/ # Generated results
-├── niche_classification.csv # Part 1 output
-├── fake_follower_scores.csv # Part 2 output
-└── brand_influencer_matches.csv # Part 3 output
+└── outputs/                      # Generated results
+    ├── niche_classification.csv  # Part 1 output
+    ├── fake_follower_scores.csv  # Part 2 output
+    └── brand_influencer_matches.csv # Part 3 output
+
 
 ---
 
