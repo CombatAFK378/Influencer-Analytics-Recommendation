@@ -43,8 +43,7 @@ pip install -r requirements.txt
 
 ---
 
-## Project Structure
-
+<pre>
 Influencer Analytics & Recommendation/
 │
 ├── venv/                         # Virtual environment
@@ -56,10 +55,11 @@ Influencer Analytics & Recommendation/
 ├── README.md                     # Project documentation
 │
 └── outputs/                      # Generated results
-    ├── niche_classification.csv  # Part 1 output
-    ├── fake_follower_scores.csv  # Part 2 output
-    └── brand_influencer_matches.csv # Part 3 output
----
+    ├── niche_classification.csv
+    ├── fake_follower_scores.csv
+    └── brand_influencer_matches.csv
+</pre>
+
 
 ## Methodology
 
