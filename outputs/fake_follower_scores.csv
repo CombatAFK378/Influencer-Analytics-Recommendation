@@ -1,0 +1,31 @@
+influencer_id,followers,avg_likes,avg_comments,engagement_rate,spike_count,total_growth_pct,fake_score,reason
+1,88625,2664,558,3.64,0.0,56.46,50.0,Low engagement rate (3.64%); Unusually rapid growth (56.5%)
+27,85155,2916,631,4.17,0.0,55.65,50.0,Low engagement rate (4.17%); Unusually rapid growth (55.6%)
+24,113174,1464,362,1.61,0.0,37.87,50.0,Very low engagement rate (1.61%)
+8,172094,1472,339,1.05,0.0,24.23,40.0,Very low engagement rate (1.05%)
+3,121905,5870,104,4.9,0.0,31.75,40.0,Low engagement rate (4.90%)
+2,144172,2149,98,1.56,0.0,28.29,40.0,Very low engagement rate (1.56%)
+23,208193,1302,691,0.96,0.0,17.01,40.0,Very low engagement rate (0.96%)
+19,219009,2396,244,1.21,0.0,18.82,40.0,Very low engagement rate (1.21%)
+11,192582,4864,347,2.71,0.0,16.31,30.0,Low engagement rate (2.71%)
+25,196042,7445,712,4.16,0.0,17.96,30.0,Low engagement rate (4.16%)
+6,72480,10267,330,14.62,0.0,77.99,30.0,Extremely rapid growth (78.0%)
+7,76480,13680,193,18.14,0.0,79.37,30.0,Extremely rapid growth (79.4%)
+5,67968,10373,677,16.26,0.0,73.79,30.0,Extremely rapid growth (73.8%)
+4,150939,5623,126,3.81,0.0,22.9,30.0,Low engagement rate (3.81%)
+26,197171,6360,509,3.48,0.0,22.36,30.0,Low engagement rate (3.48%)
+28,204156,6665,663,3.59,0.0,16.47,30.0,Low engagement rate (3.59%)
+20,197370,6782,615,3.75,0.0,16.8,30.0,Low engagement rate (3.75%)
+21,72144,6885,556,10.31,0.0,79.04,30.0,Extremely rapid growth (79.0%)
+17,160331,3558,261,2.38,0.0,20.44,30.0,Low engagement rate (2.38%)
+10,105138,7294,69,7.0,0.0,42.16,25.0,Normal activity pattern
+29,132794,10039,323,7.8,0.0,41.88,25.0,Normal activity pattern
+9,91504,14558,628,16.6,1.0,43.38,20.0,1 follower spike detected
+18,159310,8477,451,5.6,0.0,21.4,15.0,Normal activity pattern
+14,155947,7612,486,5.19,0.0,23.65,15.0,Normal activity pattern
+13,153018,10623,694,7.4,0.0,24.39,15.0,Normal activity pattern
+15,182175,10476,101,5.81,0.0,22.18,15.0,Normal activity pattern
+30,202363,10754,514,5.57,0.0,16.63,15.0,Normal activity pattern
+12,140152,12559,128,9.05,0.0,32.63,10.0,Normal activity pattern
+22,140108,11651,81,8.37,0.0,29.39,0.0,Normal activity pattern
+16,148440,14780,276,10.14,0.0,24.92,0.0,Normal activity pattern

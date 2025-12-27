@@ -1,0 +1,101 @@
+brand_id,brand_name,brand_keywords,rank,influencer_id,influencer_bio,influencer_niche,similarity_score
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",1,10,Fashion blogger and lifestyle creator.,"blogger, blogger lifestyle, creator",49.31
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",2,18,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",46.99
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",3,1,Fashion blogger and lifestyle creator.,"blogger, blogger lifestyle, creator",35.91
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",4,25,Fashion blogger and lifestyle creator.,"blogger, blogger lifestyle, creator",35.91
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",5,26,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",31.86
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",6,21,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",31.68
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",7,23,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",31.37
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",8,20,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",31.37
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",9,30,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",31.28
+1,Luxury fashion brand for young adults.,"fashion,lifestyle",10,4,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",31.21
+2,Tech company building AI-powered devices.,"technology,gadgets",1,2,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",52.52
+2,Tech company building AI-powered devices.,"technology,gadgets",2,22,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",52.3
+2,Tech company building AI-powered devices.,"technology,gadgets",3,15,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",48.15
+2,Tech company building AI-powered devices.,"technology,gadgets",4,19,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",45.96
+2,Tech company building AI-powered devices.,"technology,gadgets",5,28,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",42.78
+2,Tech company building AI-powered devices.,"technology,gadgets",6,7,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",31.01
+2,Tech company building AI-powered devices.,"technology,gadgets",7,8,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",24.14
+2,Tech company building AI-powered devices.,"technology,gadgets",8,24,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",24.14
+2,Tech company building AI-powered devices.,"technology,gadgets",9,30,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",17.35
+2,Tech company building AI-powered devices.,"technology,gadgets",10,6,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",17.26
+3,Fitness supplement brand.,"fitness,health",1,29,Fitness coach focused on home workouts.,"coach, coach focused, fitness",44.27
+3,Fitness supplement brand.,"fitness,health",2,14,Fitness coach focused on home workouts.,"coach, coach focused, fitness",44.27
+3,Fitness supplement brand.,"fitness,health",3,16,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",41.24
+3,Fitness supplement brand.,"fitness,health",4,1,Fashion blogger and lifestyle creator.,"blogger, blogger lifestyle, creator",38.82
+3,Fitness supplement brand.,"fitness,health",5,25,Fashion blogger and lifestyle creator.,"blogger, blogger lifestyle, creator",38.82
+3,Fitness supplement brand.,"fitness,health",6,4,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",37.98
+3,Fitness supplement brand.,"fitness,health",7,18,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",37.31
+3,Fitness supplement brand.,"fitness,health",8,30,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",37.09
+3,Fitness supplement brand.,"fitness,health",9,3,Fitness coach focused on home workouts.,"coach, coach focused, fitness",36.06
+3,Fitness supplement brand.,"fitness,health",10,21,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",34.8
+4,Organic food products brand.,"food,organic",1,4,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",37.09
+4,Organic food products brand.,"food,organic",2,25,Fashion blogger and lifestyle creator.,"blogger, blogger lifestyle, creator",35.38
+4,Organic food products brand.,"food,organic",3,1,Fashion blogger and lifestyle creator.,"blogger, blogger lifestyle, creator",35.38
+4,Organic food products brand.,"food,organic",4,5,Food vlogger exploring global cuisine.,"blogger, blogger lifestyle, creator",34.12
+4,Organic food products brand.,"food,organic",5,18,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",29.23
+4,Organic food products brand.,"food,organic",6,21,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",26.16
+4,Organic food products brand.,"food,organic",7,23,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",26.11
+4,Organic food products brand.,"food,organic",8,20,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",26.11
+4,Organic food products brand.,"food,organic",9,26,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",25.05
+4,Organic food products brand.,"food,organic",10,10,Fashion blogger and lifestyle creator.,"blogger, blogger lifestyle, creator",24.51
+5,Global travel accessories company.,"travel,adventure",1,13,Travel photographer capturing landscapes.,"capturing, capturing landscapes, landscapes",28.73
+5,Global travel accessories company.,"travel,adventure",2,9,Travel photographer capturing landscapes.,"capturing, capturing landscapes, landscapes",28.4
+5,Global travel accessories company.,"travel,adventure",3,26,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",27.68
+5,Global travel accessories company.,"travel,adventure",4,18,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",25.72
+5,Global travel accessories company.,"travel,adventure",5,27,Travel photographer capturing landscapes.,"capturing, capturing landscapes, landscapes",25.58
+5,Global travel accessories company.,"travel,adventure",6,23,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",22.47
+5,Global travel accessories company.,"travel,adventure",7,20,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",22.47
+5,Global travel accessories company.,"travel,adventure",8,10,Fashion blogger and lifestyle creator.,"blogger, blogger lifestyle, creator",21.65
+5,Global travel accessories company.,"travel,adventure",9,21,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",21.45
+5,Global travel accessories company.,"travel,adventure",10,24,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",21.13
+6,Premium skincare brand.,"beauty,skincare",1,18,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",68.88
+6,Premium skincare brand.,"beauty,skincare",2,21,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",66.06
+6,Premium skincare brand.,"beauty,skincare",3,4,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",65.7
+6,Premium skincare brand.,"beauty,skincare",4,24,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",62.22
+6,Premium skincare brand.,"beauty,skincare",5,8,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",62.22
+6,Premium skincare brand.,"beauty,skincare",6,23,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",61.88
+6,Premium skincare brand.,"beauty,skincare",7,20,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",61.88
+6,Premium skincare brand.,"beauty,skincare",8,26,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",56.63
+6,Premium skincare brand.,"beauty,skincare",9,16,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",55.85
+6,Premium skincare brand.,"beauty,skincare",10,3,Fitness coach focused on home workouts.,"coach, coach focused, fitness",51.91
+7,Gaming peripherals manufacturer.,"gaming,esports",1,15,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",42.86
+7,Gaming peripherals manufacturer.,"gaming,esports",2,22,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",28.18
+7,Gaming peripherals manufacturer.,"gaming,esports",3,2,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",27.4
+7,Gaming peripherals manufacturer.,"gaming,esports",4,28,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",25.09
+7,Gaming peripherals manufacturer.,"gaming,esports",5,21,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",22.61
+7,Gaming peripherals manufacturer.,"gaming,esports",6,19,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",19.32
+7,Gaming peripherals manufacturer.,"gaming,esports",7,5,Food vlogger exploring global cuisine.,"blogger, blogger lifestyle, creator",18.28
+7,Gaming peripherals manufacturer.,"gaming,esports",8,17,Parenting blogger sharing family tips.,"blogger, blogger sharing, family tips",16.37
+7,Gaming peripherals manufacturer.,"gaming,esports",9,9,Travel photographer capturing landscapes.,"capturing, capturing landscapes, landscapes",15.99
+7,Gaming peripherals manufacturer.,"gaming,esports",10,7,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",14.99
+8,Baby products and parenting essentials.,"parenting,babies",1,11,Parenting blogger sharing family tips.,"blogger, blogger sharing, family tips",45.24
+8,Baby products and parenting essentials.,"parenting,babies",2,17,Parenting blogger sharing family tips.,"blogger, blogger sharing, family tips",44.56
+8,Baby products and parenting essentials.,"parenting,babies",3,20,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",35.58
+8,Baby products and parenting essentials.,"parenting,babies",4,23,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",35.58
+8,Baby products and parenting essentials.,"parenting,babies",5,4,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",29.16
+8,Baby products and parenting essentials.,"parenting,babies",6,21,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",28.71
+8,Baby products and parenting essentials.,"parenting,babies",7,22,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",26.06
+8,Baby products and parenting essentials.,"parenting,babies",8,18,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",25.62
+8,Baby products and parenting essentials.,"parenting,babies",9,24,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",25.32
+8,Baby products and parenting essentials.,"parenting,babies",10,8,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",25.32
+9,Investment and financial tools company.,"finance,investing",1,12,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",28.11
+9,Investment and financial tools company.,"finance,investing",2,11,Parenting blogger sharing family tips.,"blogger, blogger sharing, family tips",19.1
+9,Investment and financial tools company.,"finance,investing",3,22,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",15.19
+9,Investment and financial tools company.,"finance,investing",4,15,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",13.43
+9,Investment and financial tools company.,"finance,investing",5,19,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",11.6
+9,Investment and financial tools company.,"finance,investing",6,2,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",10.57
+9,Investment and financial tools company.,"finance,investing",7,16,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",7.58
+9,Investment and financial tools company.,"finance,investing",8,21,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",4.81
+9,Investment and financial tools company.,"finance,investing",9,28,Tech reviewer specializing in AI gadgets.,"ai, ai gadgets, gadgets",4.78
+9,Investment and financial tools company.,"finance,investing",10,8,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",4.55
+10,Mental health & wellness organization.,"mental health,wellness",1,30,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",53.19
+10,Mental health & wellness organization.,"mental health,wellness",2,12,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",52.94
+10,Mental health & wellness organization.,"mental health,wellness",3,6,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",49.84
+10,Mental health & wellness organization.,"mental health,wellness",4,7,Motivational speaker & mental wellness advocate.,"advocate, mental wellness, motivational",43.21
+10,Mental health & wellness organization.,"mental health,wellness",5,16,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",27.55
+10,Mental health & wellness organization.,"mental health,wellness",6,23,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",25.94
+10,Mental health & wellness organization.,"mental health,wellness",7,20,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",25.94
+10,Mental health & wellness organization.,"mental health,wellness",8,27,Travel photographer capturing landscapes.,"capturing, capturing landscapes, landscapes",23.56
+10,Mental health & wellness organization.,"mental health,wellness",9,21,Beauty influencer reviewing skincare products.,"beauty, beauty influencer, influencer",20.96
+10,Mental health & wellness organization.,"mental health,wellness",10,29,Fitness coach focused on home workouts.,"coach, coach focused, fitness",19.95
